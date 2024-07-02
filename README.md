@@ -5,6 +5,6 @@
 
 ## KINGS MD SCANNER
 
-[TAP HERE OPEN](https://bmw-scanner-9380dc7ea838.herokuapp.com/)
+[TAP HERE OPEN](https://render-session-scanner-by-ibrahim-adams.onrender.com/)
 
 <a><img src='https://telegra.ph/file/d6f2db280e4ec4d743cb0.jpg'/></a>
